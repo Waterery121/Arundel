@@ -1,2 +1,2 @@
 # Arundel
-MATLAB scripts for the dissertation about Arundel flood inundation. 
+MATLAB scripts for the dissertation studing Arundel flood inundation. 
